@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">A Computing Science (Honours) Student at UTS</h3>
+<h3 align="center">A Computing Science with Honours Student at UTS</h3>
 
 - 🔭 I’m currently working on [Mazle](mazle.net)
 
